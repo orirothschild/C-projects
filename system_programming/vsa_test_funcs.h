@@ -1,0 +1,4 @@
+#ifndef ILRD_VSA_TESTS_FUNCS_H
+#define ILRD_VSA_TESTS_FUNCS_H
+
+#endif
